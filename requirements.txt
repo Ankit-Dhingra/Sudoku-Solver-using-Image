@@ -1,7 +1,5 @@
-
 numpy
 Pillow
-
 cvzone
 tensorflow
 keras
