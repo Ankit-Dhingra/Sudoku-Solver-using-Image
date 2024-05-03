@@ -3,3 +3,4 @@ Pillow
 cvzone
 tensorflow
 keras
+scikit-learn
